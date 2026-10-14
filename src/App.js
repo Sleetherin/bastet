@@ -6,8 +6,8 @@ import { Provider } from 'react-redux';
 import store from './store/store';
 
 import SearchBar from './components/searchbar/SearchBar';
-import PostsFunction from './scrolling/posts/posts';
-import Topics from './scrolling/topics/topics';
+import PostsFunction from './scrolling/posts/Posts';
+import Topics from './scrolling/topics/Topics';
 
 
 function App() {
